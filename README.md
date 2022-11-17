@@ -1,3 +1,4 @@
+[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=9379408&assignment_repo_type=AssignmentRepo)
 # List sets
 
 You might already be familiar with the built-in `set` type. Whenever you need to use a set, you should probably use it. However, you might not always be working in a language that already has a set, but most languages will have something like the `list` type (or you can implement it yourself rather easily). In this exercise, I want you to implement the `set` functionality, but using a `list`.
